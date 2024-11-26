@@ -1,0 +1,27 @@
+.container {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    margin-top: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  table td, table th {
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .actions {
+    color: #6c757d;
+    font-style: italic;
+  }
